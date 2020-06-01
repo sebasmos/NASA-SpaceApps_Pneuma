@@ -2781,6 +2781,11 @@ body.is-preload #banner:after {
 			width: 70%;
        		 margin: 0 auto;
 		}
+		.img_containerLogoSpace{
+			width: 20%;
+       		 margin: 0 auto;
+		}
+	
 		.theimage{
 			width: 100%;
 			height: auto;
