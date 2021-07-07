@@ -3,4 +3,4 @@
 We had lots of fun working on this, hope you like it! 
 
 Website:
-http://www.pneumapp.co/
+https://sebasmos.github.io/NASA-SpaceApps_Pneuma/ 
